@@ -1,1 +1,1 @@
-# gdelt
+# `{gdelt}`
